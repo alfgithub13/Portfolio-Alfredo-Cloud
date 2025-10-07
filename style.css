@@ -290,7 +290,7 @@ p {
     align-items: center;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(135deg, #06227c 0%, #3b82f6 30%, #60a5fa 70%, #93c5fd 100%);
+    background: linear-gradient(135deg, #06227c 0%, #0f469e 30%, #134685 70%, #3b6aa0 100%);
     background-size: 400% 400%;
     animation: gradientShift 15s ease infinite;
 }
