@@ -233,7 +233,7 @@ function initializeContactForm() {
             const data = Object.fromEntries(formData);
             
             // Simulate form submission
-            showNotification('Mensaje enviado correctamente. Te responderé pronto.', 'success');
+            showNotification('Message sent succesfully.', 'success');
             this.reset();
         });
     }
