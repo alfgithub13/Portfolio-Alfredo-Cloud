@@ -103,8 +103,8 @@ const projects = [
         image: "imagenes/bases_datos_ec2_a_RDS.jpg",
         technologies: ["EC2", "Amazon RDS", "RDS Proxy", "IAM", "VPC"],
         tags: ["Profesional"],
-        github: "#",
-        demo: "#"
+        /* github: "#",
+        demo: "#" */
     },
     {
         id: 8,
@@ -128,7 +128,7 @@ const projects = [
         github: "#",
         demo: "#"
     },
-    {
+/*     {
         id: 10,
         title: "Monitorización con Prometheus y Grafana",
         description: "Arquitectura para monitoreo de contenedores usando Prometheus, Grafana, Loki y Alloy",
@@ -138,7 +138,7 @@ const projects = [
         tags: ["Profesional"],
         github: "#",
         demo: "#"
-    }
+    } */
 ];
 
 // Exportar para uso en script.js
