@@ -84,7 +84,7 @@ const projects = [
         github: "#",
         demo: "#"
     },
-    {
+/*     {
         id: 6,
         title: "Seguimiento de ubicación",
         description: "Integran dispositivos IoT, rastreo de ubicación y procesamiento en tiempo real",
@@ -94,7 +94,7 @@ const projects = [
         tags: ["Avanzado"],
         github: "#",
         demo: "#"
-    },
+    }, */
     {
         id: 7,
         title: "Migración de base de datos de EC2 a RDS",
