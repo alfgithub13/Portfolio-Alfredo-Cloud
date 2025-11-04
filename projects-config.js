@@ -95,18 +95,8 @@ const projects = [
         github: "#",
         demo: "#"
     }, */
-    {
-        id: 7,
-        title: "Migración de base de datos de EC2 a RDS",
-        description: "Migración de bases de datos alojadas en instancias EC2 hacia Amazon RDS usando RDS Proxy para optimizar conexiones",
-        fullDescription: "Este proyecto muestra cómo migrar una base de datos administrada en EC2 hacia Amazon RDS, mejorando la eficiencia de conexión con RDS Proxy. Se asegura el acceso mediante políticas IAM y una subred privada para mayor seguridad. Ideal para entornos productivos con múltiples instancias",
-        image: "imagenes/bases_datos_ec2_a_RDS.jpg",
-        technologies: ["EC2", "Amazon RDS", "RDS Proxy", "IAM", "VPC"],
-        tags: ["Profesional"],
-        /* github: "#",
-        demo: "#" */
-    },
-    {
+    /*  */
+/*     {
         id: 8,
         title: "ETL con instancias spot y bucket S3",
         description: "Proceso de ETL económico usando instancias EC2 Spot para procesar datos y almacenarlos en Amazon S3",
@@ -116,8 +106,8 @@ const projects = [
         tags: ["Básico"],
         github: "#",
         demo: "#"
-    },
-    {
+    }, */
+/*     {
         id: 9,
         title: "Lambda con acceso multi cuenta",
         description: "Función Lambda que permite llamadas entre cuentas de AWS con políticas de identidad y recursos.",
@@ -127,7 +117,7 @@ const projects = [
         tags: ["Avanzado"],
         github: "#",
         demo: "#"
-    },
+    }, */
 /*     {
         id: 10,
         title: "Monitorización con Prometheus y Grafana",
